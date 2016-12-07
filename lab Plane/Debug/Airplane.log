@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vineeth\documents\visual studio 15\projects\airplane\airplane\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Airplane.vcxproj -> c:\users\vineeth\documents\visual studio 15\Projects\Airplane\Debug\Airplane.exe
+  Airplane.vcxproj -> c:\users\vineeth\documents\visual studio 15\Projects\Airplane\Debug\Airplane.pdb (Partial PDB)

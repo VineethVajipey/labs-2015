@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\vineeth\documents\visual studio 15\projects\bubble sorting\bubble sorting\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vineeth\documents\visual studio 15\projects\bubble sorting\bubble sorting\source.cpp(27): error C2086: 'int y': redefinition
+  c:\users\vineeth\documents\visual studio 15\projects\bubble sorting\bubble sorting\source.cpp(7): note: see declaration of 'y'
+c:\users\vineeth\documents\visual studio 15\projects\bubble sorting\bubble sorting\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\vineeth\documents\visual studio 15\projects\bubble sorting\bubble sorting\source.cpp(5): fatal error C1075: the left brace '{' was unmatched at the end of the file

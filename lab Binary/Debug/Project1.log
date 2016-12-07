@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vineeth\documents\visual studio 15\projects\project1\project1\source.cpp(15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> c:\users\vineeth\documents\visual studio 15\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\vineeth\documents\visual studio 15\Projects\Project1\Debug\Project1.pdb (Partial PDB)
